@@ -1,3 +1,2 @@
 # rcjsoccersim-class
-rcjsoccer sim online class
-udfhviuwwhv
+# rcjsoccer sim online class
